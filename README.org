@@ -2,9 +2,8 @@
 
 A lisp native YAML parser
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/jasom/nyaml.git   |
-| commit  | d458dce  |
-| systems | nyaml |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------|
+| source  | git:https://github.com/jasom/nyaml.git |
+| commit  | 703f740                                |
+| systems | nyaml                                  |
+|---------+----------------------------------------|
